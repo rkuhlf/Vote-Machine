@@ -13,8 +13,7 @@
 // TODO: Integrate with some database (repl's could be pretty good but I don't know how well that would work deploying with surge)
 
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './style.css';
 
 class App extends Component {
   render() {
