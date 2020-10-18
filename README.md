@@ -1,6 +1,6 @@
 # Vote-Machine
 
-**A react-based comparison of voting methods*
+*A react-based comparison of voting methods*
 
 ## Features
 - Allows custom lists
